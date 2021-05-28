@@ -1,1 +1,1 @@
-<object type="text/html" data="portfolio.html"></object>
+<link rel="import" href="portfolio.html">
