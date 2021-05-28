@@ -1,1 +1,1 @@
-<!--#include virtual="portfolio.html" -->
+<object type="text/html" data="portfolio.html"></object>
