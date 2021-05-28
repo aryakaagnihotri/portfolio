@@ -1,1 +1,1 @@
-<iframe src="portfolio.html" name="targetframe" allowTransparency="true" scrolling="no" frameborder="0" > </iframe>
+<iframe src="portfolio.html" frameborder="0" > </iframe>
