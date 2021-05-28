@@ -1,7 +1,6 @@
-
-<html>
-  <body>
-   <include src="portfolio.html"></include>
-</body>
-</html>
-
+<iframe loading="lazy" 
+    id="porfolio" 
+    width=100% 
+    height=100% 
+    src="portfolio.html"> 
+</iframe> 
