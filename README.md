@@ -1,1 +1,5 @@
-<iframe src="portfolio.html" frameborder="0" > </iframe>
+<!DOCTYPE html> 
+<html> 
+<body> 
+<?php include(“portfolio.html”); ?> 
+</html> 
